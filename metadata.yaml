@@ -1,0 +1,5 @@
+homepage: "https://atrilyx.com/"
+documentation: ""
+versions:
+  - sha: 96474bac1a277f8b0bf0ed27751a123eccea541e
+    changeNotes: Initial commit.
