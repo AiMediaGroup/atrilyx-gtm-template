@@ -1,5 +1,5 @@
 homepage: "https://atrilyx.com/"
-documentation: ""
+documentation: "https://www.atrilyx.com/about-us/"
 versions:
-  - sha: 96474bac1a277f8b0bf0ed27751a123eccea541e
-    changeNotes: Initial commit.
+  - sha: f37d011b7df18a95508b0a685fe68a81a873986d
+    changeNotes: Update metadata.yaml
