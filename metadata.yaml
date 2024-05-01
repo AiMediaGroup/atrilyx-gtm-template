@@ -1,5 +1,5 @@
 homepage: "https://atrilyx.com/"
-documentation: "https://www.atrilyx.com/about-us/"
+documentation: "https://docs.atrilyx.com/akb/gtm-template"
 versions:
   - sha: 802e5a5660563a549ec936d8d937e11771dc4f39
     changeNotes: Initial release.
