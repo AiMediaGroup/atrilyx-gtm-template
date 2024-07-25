@@ -2,7 +2,7 @@ homepage: "https://atrilyx.com/"
 documentation: "https://docs.atrilyx.com/akb/gtm-template"
 versions:
 # Latest version
-  - sha: 9a072173c9ddebf13018ac22fafc851b4ae60056
+  - sha: 41fb8c9d6298a0f851205ea9d6df3e78637a295c
     changeNotes: Additional Options.
 # Older versions
   - sha: a9acdb1a61a0d02c9e34a60fc28b2aa388750446
